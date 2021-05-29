@@ -6,3 +6,7 @@
 
 ### 1. [Django TODO-App CockroachDB Hacktoberfest2020 Challenge](https://github.com/caro-oviedo/Django-TODO-App-CockroachDB-Hacktoberfest-Challenge)
 
+The Challenge: Build a To-Do app using CockroachDB and a language/ORM of your choice!
+
+
+
